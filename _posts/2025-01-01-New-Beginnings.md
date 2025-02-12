@@ -1,7 +1,7 @@
 ---
 title: New Beginnings
 description: The obligatory introductory post.
-date: 2025-01-01 11:33:00 +000
+date: 2025-01-01 11:33:00 +0100
 categories: [Blogging, Introduction]
 tags: [intro]
 ---
