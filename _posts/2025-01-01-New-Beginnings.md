@@ -1,11 +1,15 @@
-
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title: New Beginnings
+description: The obligatory introductory post.
+date: 2025-01-02 11:33:00 +0800
+categories: [Blogging, Introduction]
+tags: [intro]
 ---
 
-# Welcome
+Welcome to the Holder Collective!
 
-**Hello world**, this is my first Jekyll blog post.
+If you're here chances are you've visited my [github](https://github.com/TheHolderCollective) or perused my resume. As a former, avid Star Trek fan, the name of this blog was somewhat inspired by the Borg - the most fascinating and mysterious race in the Star Trek universe (at least in my opinion). Having said that, resistance will not be futile as I have no intention of assimilating my readers. 
 
-I hope you like it!
+This blog will primarily be used to share my thoughts on things related to my interests which tend to vary over time, as well as topics adjacent to my professional pursuits. Happy reading and I hope that you find at least one of my posts useful.
+
+
