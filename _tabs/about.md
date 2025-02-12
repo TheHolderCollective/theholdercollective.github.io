@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+This site houses my blog posts as well my portfolio of personal code projects. The portfolio page currently contains hobby projects which I think might be worth sharing.
 
 My educational background includes a mixture of computer science and mathematics at the undergrad level, and actuarial science at the postgrad level. It has been suprisingly good to me as it has allowed me to step through doors which would otherwise have been closed. I've done a bunch of similar yet unrelated things professionally which have all been tied together by the common threads of knowing how to analyse data, problem solve, and code.
 
