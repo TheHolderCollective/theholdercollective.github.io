@@ -3,6 +3,7 @@ title: New Beginnings
 description: The obligatory introductory post.
 date: 2025-01-02 11:33:00 +0800
 categories: [Blogging, Introduction]
+author: rholder
 tags: [intro]
 ---
 
