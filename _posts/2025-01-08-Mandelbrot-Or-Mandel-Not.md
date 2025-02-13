@@ -15,7 +15,7 @@ Several months before the pandemic hit, I came across a niche website called [Ex
 
 I first started by writing some code to implement the escape time algorithm to find points which were members of the set. My first attempts produced plots which had the general shape of the set, but which weren't very refined which I jokingly call the _Mandel-Not_:
 
-![Mandelbrot](/posts/20250108/first-mandelbrot-plot.jpg){: width="457" height="370" }
+![Mandelbrot](/assets/posts/20250108/first-mandelbrot-plot.jpg){: width="457" height="370" }
 _One of the initial mandelbrot plots_
 
 
@@ -44,7 +44,7 @@ After some experimentation with the maximum number of iterations, I came to the 
 ## Improvements
 Apart from limiting the maximum number of iterations, I also found that modifying the start and end points for x and y as well as selecting a different type of graph resulted in a distinct improvement in the overall quality of the plots. Evaluating 60 000 points using the improved constraints yielded:
 
-![Mandelbrot](/posts/20250108/improved-mandelbrot-plot.jpg){: width="445" height="533" }
+![Mandelbrot](/assets/posts/20250108/improved-mandelbrot-plot.jpg){: width="445" height="533" }
 _Plot resulting from updated constraints_
 
 The constraints used to evaluate the points:
