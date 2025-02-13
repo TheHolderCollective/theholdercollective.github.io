@@ -13,13 +13,13 @@ Several months before the pandemic hit, I came across a niche website called [Ex
 
 ## First Steps
 
-I first started by writing some code to implement the escape time algorithm to find points which were members of the set. My first attempts produced plots which had the general shape of the set, but which weren't very refined which I jokingly call the _Mandel-Not_:
+I first started by writing some code to implement the [escape time algorithm](https://en.wikipedia.org/wiki/Plotting_algorithms_for_the_Mandelbrot_set) to find points which were members of the set. My first attempts produced plots which had the general shape of the set, but which weren't very refined which I jokingly call the _Mandel-not_:
 
 ![Mandelbrot](/assets/posts/20250108/first-mandelbrot-plot.jpg){: width="457" height="370" }
 _One of the initial mandelbrot plots_
 
 
- 75 000 points were evaluated for the plot shown above, and 15 087 were determined to be members of the set. The points were evaluated using the following constraints:
+ 75 000 points were evaluated for the plot shown above, and approximately 15 000 were determined to be members of the set. The points were evaluated using the following constraints:
 
 | Description   |  Value | 
 | X Range       |   2.5  | 
