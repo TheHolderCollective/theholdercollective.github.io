@@ -24,7 +24,12 @@ If we accept that a percentage of players will always be lost to overseas league
 
 ## Pitches - One Actionable 20% 
 
-One of the known problems which seems to persist and plague the development of West Indies players is the quality of the local pitches. Wickets have gone from being historically fast and bouncy to low and slow which seems to give spinners a huge advantage in domestic competitions. This issue has been identified and raised several times over the last couple decades, but nothing noteworthy seems to have been done to fix the problem. The pitch is one of the most important variables in a cricket match, and I believe that funneling money into improving, maintaining, and developing quality pitches could be part of the 20% which gives the needed 80% as far as results on the field is concerned. 
+One of the known problems which seems to persist and plague the development of West Indies players is the quality of the local pitches.
+
+![CricketPitch](/assets/posts/20250225/cricket_pitch.jpg){: width="540" height="360" }
+_A standard cricket pitch_
+
+Wickets have gone from being historically fast and bouncy to low and slow which seems to give spinners a huge advantage in domestic competitions. This issue has been identified and raised several times over the last couple decades, but nothing noteworthy seems to have been done to fix the problem. The pitch is one of the most important variables in a cricket match, and I believe that funneling money into improving, maintaining, and developing quality pitches could be part of the 20% which gives the needed 80% as far as results on the field is concerned. 
 
 Batters will develop better technique with faster, bouncier wickets and so will the bowlers. Better batting techniques and  bowling skills should raise the standard of domestic cricket competitions thereby resulting in a higher quality player pool, and more competitive test and limited over teams.
 
@@ -32,6 +37,9 @@ Batters will develop better technique with faster, bouncier wickets and so will 
 ## Fielding - Another Actionable 20%
 Fielding is another area which if improved could have a significant impact on results in a positive way. High quality fielding makes it harder for the opposition to score thereby helping the bowlers to build pressure and create chances to take wickets.
 Intermittently, poor fielding seems to be an  Achilles' heel plaguing modern day West Indies teams. Players drop a fair amount of catches which could have led to closer or different results had they been taken. The old cricketing saying "catches win matches" is very true, as one wicket can mean the difference between restricting the opposition to scoring 200 rather than 450.
+
+![CricketFielder](/assets/posts/20250225/cricket-player-fielding.jpg){: width="600" height="350" }
+_Player fielding the ball_
 
 Increased focus on raising the standard of fielding of domestic players can be done at a relatively low cost to CWI as fielding is supposed to be part of any competent player's skill set, and any qualified coach's repertoire of skills to impart. So most of what is needed should already be there, it may just be a matter of polishing and fine tuning. Monetary investment can be made to raise the skill level of coaches who might be lacking in this area, but I believe that improvements in players' fielding skills will require a greater investment of time rather than money. Fancy facilities with computers running simulations and analysing data point by point aren't needed to produce excellent fielders. Raising the bar for fielding will also contribute to raising the standard of domestic competitions, and the overall quality of players being produced.
 
