@@ -61,7 +61,7 @@ The constraints used to evaluate the points:
 
 The plot is not as beautiful as images made using other software due to the limitations of Excel graphs. However, the main features of the set can be clearly seen. I experimented with different types of graphs, but the results obtained didn't offer much in terms of improved image quality or colour aesthetics. It might be possible to produce more visually impressive plots by writing code to change the colours rather than relying on the preset colour palettes used by the graphs in Excel, but I really don't think that the juice is worth the squeeze. 
 
-After proving that it was possible to plot a fractal like the MandelBrot using Excel, I turned my attention to trying to plot other fractals such as the MandelBar and Julia sets. I will share those results in upcoming posts.
+After proving that it was possible to plot a fractal like the MandelBrot using Excel, I turned my attention to trying to plot other fractals such as the MandelBar and Julia sets. I will share those results at some point in future posts.
 
 
 
