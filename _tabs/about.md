@@ -10,4 +10,4 @@ My educational background includes a mixture of computer science and mathematics
 
 Some of my interests include chaos theory, fractals, cricket, rebounding, and cats.
 
-_Please note that due to privacy, productivity, and mental health concerns, I don't participate in an active way on a lot of the more popular social media sites such as Facebook, X, Instagram, or LinkedIn. Therefore, this blog along with my github will mostly be it as far as a personal internet presence goes._ 
+_Please note that due to privacy and productivity concerns, I don't participate in an active way on a lot of the more popular social media sites such as Facebook, X, Instagram, or LinkedIn. Therefore, this blog along with my github will mostly be it as far as a personal internet presence goes._ 
