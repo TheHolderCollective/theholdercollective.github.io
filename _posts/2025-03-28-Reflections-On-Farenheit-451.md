@@ -46,7 +46,7 @@ Mr.Noble's opponent was also interestingly enough only shown in a less than flat
 
 After the questions about politics, Montag did the unthinkable and started reading poetry from a book to Mildred and her companions. This resulted in a strong emotional reaction from one of Mildred's friends. She started to cry and had no idea why she was crying. I think her reaction was because she had never experienced emotions which weren't associated with the vapid games and programs on the tv. She may have been the sensitive and artistic type, but had never had a chance to explore that side of herself because of the way society was setup. She begged him to stop reading because she couldn't handle what she was feeling.
 
-This reminded me of the present day where cancel culture demands the removal of persons or things which don't align with their views or beliefs. These opposing viewpoints create intolerable emotional discomfort for those not in favour of them which has to be soothed and avenged by canceling. There seems to be very little tolerance for opposing view points if they are deemed not to be in alignment with what is politically correct, socially acceptable, or in alignment with prevailing agendas.
+This reminded me of the present day where cancel culture demands the removal of persons or things which don't align with their views or beliefs. These opposing viewpoints create intolerable emotional discomfort for those not in favour of them which has to be soothed and avenged by canceling. There seems to be very little tolerance for opposing view points if they are deemed not to be in alignment with what is politically correct, socially acceptable, or with prevailing agendas.
 
 
 ## Ignorance is Not Bliss
