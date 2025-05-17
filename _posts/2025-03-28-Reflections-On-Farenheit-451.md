@@ -24,7 +24,7 @@ I also found it disturbing how numbed, dumbed down, and shallow the society seem
 
 The only ones who questioned the status quo were Clarisse McClellan, Montag's young neighbour, who was different from all the other mindless followers Montag encountered, and the small group of resistors he became a part of at the end of the story. Clarisse's contratrian state and knowledge of times past seems to have been the result of familial influence, and so her family can also be included among those who were not in agreement with the way things were.
 
-## Control Faciliated By Ignorance
+## Control Facilitated By Ignorance
 
 The society in which Montag lived seems to have been placed in a trance due to the interactive programs being beamed into their homes via their wall filling parlour screens. These programs kept the general populace in a state of ignorance which allowed them to be completely mind controlled, as seen when they are told to look out of their houses on the count of ten so that they could locate the fugitive Montag when he was being chased by the Hound for destruction. His crime? He had stolen and read books.
 
