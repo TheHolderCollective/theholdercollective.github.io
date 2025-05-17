@@ -57,7 +57,7 @@ After he came to the realisation that the world wasn't always like this and that
 
 ## Conclusion
 
-Society today isn't only controlled by screens on the walls as they are in the book, but also by the screens in our hands via traditional media and social media. Social media has completely changed society, and I don't think for the better. While there are positives which have come from social media, I see more negatives in the form of people who are completely caught up in its grip, controlled by the never-ending pursuit of likes, validation, and clout. Slaves to an algorithm and content creation in the hopes of generating income and wealth creation opportunities.
+Society today isn't only controlled by screens on the walls as they are in the book, but also by the screens in our hands via traditional and social media. Social media has completely changed society, and I don't think for the better. While there are positives which have come from social media, I see more negatives in the form of people who are completely caught up in its grip, controlled by the never-ending pursuit of likes, validation, and clout. Slaves to an algorithm and content creation in the hopes of generating income and wealth creation opportunities.
 
 Our world is in the nascent stages of dystopia with many unable to see it. As long as people are comfortable and can feast on the fodder fed to them in their apps, all is well in their minds. But as the book clearly illustrates, a society which isn't thinking and is happy to be controlled by mindless pleasures, can suddenly find itself facing sudden, irreparable destruction.
 
