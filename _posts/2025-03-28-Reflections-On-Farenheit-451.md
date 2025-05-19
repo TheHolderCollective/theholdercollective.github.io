@@ -18,7 +18,7 @@ _One of the many covers of Farenheit 451_
 It made me think of today where almost everyone is constantly glued to their phones in public spaces with hardly any thought about interacting in a present way with their environment. As this thought came to me, I started to wonder how the story would go and what other parallels could be drawn with the fictional world of the book and society today. And so for $1.99, I purchased the Kindle version of the book and started reading it as time permitted. I finally completed it this morning. 
 
 ## Initial Impressions
-The book starts off by introducing the main character Montag and his work as firefighter which focused not on saving burning structures, but on destroying books. The fact that books were the target of such extreme measures really disturbed me as a book lover. I couldn't fathom living in a world where books are forbidden and illegal. 
+The book starts off by introducing the main character Montag and his work as a firefighter which focused not on saving burning structures, but on destroying books. The fact that books were the target of such extreme measures really disturbed me as a book lover. I couldn't fathom living in a world where books are forbidden and illegal. 
 
 I also found it disturbing how numbed, dumbed down, and shallow the society seemed, and how unquestioningly almost everyone had accepted the status quo. I was also left creeped out by how easily controlled persons in this fictional world had become, and how dangerous the state was to those who challenged or threatened the existing order. Society had come to a point where people were willing to report others for book ownership, and were quite content to watch the houses and lives of the guilty burn as a consequence of being reported. 
 
@@ -26,7 +26,7 @@ The only ones who questioned the status quo were Clarisse McClellan, Montag's yo
 
 ## Control Facilitated By Ignorance
 
-The society in which Montag lived seems to have been placed in a trance due to the interactive programs being beamed into their homes via their wall filling parlour screens. These programs kept the general populace in a state of ignorance which allowed them to be completely mind controlled, as seen when they are told to look out of their houses on the count of ten so that they could locate the fugitive Montag when he was being chased by the Hound for destruction. His crime? He had stolen and read books.
+The society in which Montag lived seems to have been placed in a trance by the interactive programs being beamed into their homes via their wall filling parlour screens. These programs kept the general populace in a state of ignorance which allowed them to be completely mind controlled, as seen when they are told to look out of their houses on the count of ten so that they could locate the fugitive Montag when he was being chased by the Hound for destruction. His crime? He had stolen and read books.
 
 ## Robotic Agent of the State - The Hound
 
@@ -57,7 +57,7 @@ After he came to the realisation that the world wasn't always like this and that
 
 ## Conclusion
 
-Society today isn't only controlled by screens on the walls as they are in the book, but also by the screens in our hands via traditional and social media. Social media has completely changed society, and I don't think for the better. While there are positives which have come from social media, I see more negatives in the form of people who are completely caught up in its grip, controlled by the never-ending pursuit of likes, validation, and clout. Slaves to an algorithm and content creation in the hopes of generating income and wealth creation opportunities.
+Society today isn't only controlled by screens on the walls as they are in the book, but also by the screens in our hands via traditional and social media. Social media has completely changed society, and I don't think for the better. While there are positives which have come from social media, I see more negatives in the form of people who are completely caught in its grip, controlled by the never-ending pursuit of likes, validation, and clout. Slaves to an algorithm and content creation in the hopes of generating income and wealth creation opportunities.
 
 Our world is in the nascent stages of dystopia with many unable to see it. As long as people are comfortable and can feast on the fodder fed to them in their apps, all is well in their minds. But as the book clearly illustrates, a society which isn't thinking and is happy to be controlled by mindless pleasures, can suddenly find itself facing sudden, irreparable destruction.
 
