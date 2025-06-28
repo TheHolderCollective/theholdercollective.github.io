@@ -19,6 +19,8 @@ _Battle screen from Battleship_
 
 **Project Code**: [Minesweeper](https://github.com/TheHolderCollective/MineSweeper)  
 
+**Blog Post**: [Minesweeper - Refactored](https://theholdercollective.github.io/posts/Minesweeper-A-Refactoring-Exercise/)
+
 ![Minesweeper](/assets/img/projects/minesweeper.png){: width="584" height="452"}
 _Minesweeper game board after loss_
 
