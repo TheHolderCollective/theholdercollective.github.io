@@ -233,7 +233,7 @@ The `ShowGameDisplay` method is called by `PlayGame` in the **Engine** class. It
 
 The methods`ShowMainMenuWithTitle`, `ShowRestartMenuWithTitle`, and `ShowLevelMenuWithTitle` are used to display the different game menus in conjunction with the game's title screen. 
 
-The `ShowGameOver` method displays the game over scren, and is called when the user opts to end the game after winning or losing.
+The `ShowGameOver` method displays the game over screen, and is called when the user opts to end the game after winning or losing.
 
 ### Engine
 
