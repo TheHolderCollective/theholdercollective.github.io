@@ -231,7 +231,7 @@ The **BoardElement** object appears again in the **Display** class where it is u
 
 The `ShowGameDisplay` method is called by `PlayGame` in the **Engine** class. It is used to update the display in response to changes in the game state. If the paramater _showGameResult_ is false, the game result panel is not shown.
 
-The methods`ShowMainMenuWithTitle`, `ShowRestartMenuWithTitle` and `ShowLevelMenuWithTitle` are used to display the different game menus in conjunction with the game's title screen. 
+The methods`ShowMainMenuWithTitle`, `ShowRestartMenuWithTitle`, and `ShowLevelMenuWithTitle` are used to display the different game menus in conjunction with the game's title screen. 
 
 The `ShowGameOver` method displays the game over scren, and is called when the user opts to end the game after winning or losing.
 
