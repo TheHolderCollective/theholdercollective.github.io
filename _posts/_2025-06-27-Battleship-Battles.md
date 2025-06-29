@@ -7,4 +7,6 @@ author: rholder
 tags: [games, console, Spectre.Console, c#]
 ---
 
-As this my last project to refactor and improve a console version of Minesweeper was winding down, my mind wandered to thoughts of what's next, and I quickly had the idea of trying my hand with a Battleship game. I fortuitously came across a series of blog posts outlining the modeling of this game in c#.
+As my last project to refactor and improve a console version of Minesweeper was winding down, my mind wandered to thoughts of what's next, and I quickly had the idea of trying my hand with a Battleship game. I fortuitously came across a series of blog posts outlining the modeling of this game in c#.
+
+
