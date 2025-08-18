@@ -366,9 +366,9 @@ One problem I encountered was the misalignment of the numbers which labelled the
 
 The most enjoyable part of this project was exploring and learning how to use the functionality contained in the Spectre.Console library, and solving the problems presented along the way by applying these newly discovered methods. It brought me great pleasure to be able to make a bland looking console application into something a bit more colourful and easier to play. It reminded of me of my Linux days, and my fleeting explorations of the ncurses library. Spectre.Console is nowhere near the level of an ncurses implementation, but I will concede that it does what it says on the tin and lives up to its promise of making it easier to make beautiful console applications.
 
+<br>
 
-
-
+|![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png) | 
 
 
 

@@ -62,4 +62,7 @@ Society today isn't only controlled by screens on the walls as they are in the b
 Our world is in the nascent stages of dystopia with many unable to see it. As long as people are comfortable and can feast on the fodder fed to them in their apps, all is well in their minds. But as the book clearly illustrates, a society which isn't thinking and is happy to be controlled by mindless pleasures, can suddenly find itself facing sudden, irreparable destruction.
 
 
+<br>
+
+|![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png) | 
 

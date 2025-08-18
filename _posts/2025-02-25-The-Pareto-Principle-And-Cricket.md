@@ -47,3 +47,7 @@ Increased focus on raising the standard of fielding of domestic players can be d
 Fielding and better quality pitches could possibly be the 20% of causes which create 80% of the consequences needed for positive change in West Indies cricket. The two suggested action points aren't cure-alls, but they are areas which I believe if targetted can lead to tremendous improvements in cricketing skills, and by extenstion the results of the current West Indies team. 
 
 I really do think if just pitch quality and fielding are improved that the team could rise to the top half of the rankings table, and with the traction gained from this push on further to achieve its former glory.
+
+<br>
+
+|![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png) | 

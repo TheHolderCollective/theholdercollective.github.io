@@ -63,6 +63,9 @@ The plot is not as beautiful as images made using other software due to the limi
 
 After proving that it was possible to plot a fractal like the MandelBrot using Excel, I turned my attention to trying to plot other fractals such as the MandelBar and Julia sets. I will share those results at some point in future posts.
 
+<br>
+
+|![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png) | 
 
 
 
