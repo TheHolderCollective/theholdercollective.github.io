@@ -25,3 +25,6 @@ _Battle screen from Battleship_
 ![Minesweeper](/assets/img/projects/minesweeper.png){: width="584" height="452"}
 _Minesweeper game board after loss_
 
+<br>
+
+|![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png)| 
