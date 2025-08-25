@@ -17,10 +17,10 @@ _First and only prompt for input_
 
 At the start of each game, player and firing boards were displayed for each player with the player board showing the ships as they were placed.
 
-![GameBoards](/assets/posts/20250627/OriginalGameBoards.jpg){: width="452" height="82"}
+![GameBoards](/assets/posts/20250627/OriginalGameBoards2.jpg){: width="398" height="604"}
 _Game and firing boards at the beginning of the game_
 
-The first thing which struck me about this was how difficult it was to properly pick out where the ships were placed on the players' game boards. Some contrast was needed, and Spectre.Console with its range of different colours for text came to mind as a possible fix for this issue.
+The first thing which struck me about this was how difficult it was to properly pick out where the ships were placed on the players' game boards. Some contrast was needed. Spectre.Console, the new toy I'm playing with, first came to mind as a possible fix for this issue.  But the **ForegroundColor** and **BackgroundColor** properties of the **Console** class could also be modified to give the much needed colour for contrast. 
 
 After displaying the boards, lines of texts showing each player's shots and the results of those shots were output until one player emerged victorious by sinking all of their opponents ships.
 
@@ -37,14 +37,14 @@ _Win loss stats for 20 simulated games_
 The models developed in the [series](https://tinyurl.com/3jcejv39) provided a bare bones look at Battleship, and I had the desire to develop it into a fully playable, interactive console game using the Spectre.Console library. I thought it would be a great way to learn more about Spectre.Console while developing a console version of a classic, tabletop game.
 
 My goals for this console version of Battleship built based on these models were to:
-- make the game fully playable by a human player against a computer opponent by using the keyboard for input
-- make the game and firing boards visually unambiguous with clear differences between the ships and the rest of the board
-- allow the player to manually place and position ships while also retaining the option of random ship placement
-- retain the shots fired and results information from the original simulation
-- have in-game documention of keyboard controls
-- display targeting information (coordinates) as the player moved the crosshairs to target ships
-- display ship status information showing which ships had been sunk and the number of hits remaining
-- make the game interface aesthetically pleasing by using the [layouts](https://spectreconsole.net/widgets/layout), [panels](https://spectreconsole.net/widgets/panel), [markup](https://spectreconsole.net/markup), and [live display](https://spectreconsole.net/live/live-display) functionality of the Spectre.Console library
+- [ ] make the game fully playable by a human player against a computer opponent by using the keyboard for input
+- [ ] make the game and firing boards visually unambiguous with clear differences between the ships and the rest of the board
+- [ ] allow the player to manually place and position ships while also retaining the option of random ship placement
+- [ ] retain the shots fired and results information from the original simulation
+- [ ] have in-game documention of keyboard controls
+- [ ] display targeting information (coordinates) as the player moved the crosshairs to target ships
+- [ ] display ship status information showing which ships had been sunk and the number of hits remaining
+- [ ] make the game interface aesthetically pleasing by using the [layouts](https://spectreconsole.net/widgets/layout), [panels](https://spectreconsole.net/widgets/panel), [markup](https://spectreconsole.net/markup), and [live display](https://spectreconsole.net/live/live-display) functionality of the Spectre.Console library
 
 These are seemingly simple and straightforward goals, but  I did encounter some challenges as I worked my way through them. The remainder of this post as well as the next deals with the process I went through to develop the game.
 
@@ -256,7 +256,7 @@ public class MenuItemLists
 ```
 
 ## Game Display - The Dreaded 'God' Class
-The aforementioned `GameDisplay` class handles anything related to the graphics of the game i.e layouts, panels, and menus. Everything graphical in the game revolves around the **LiveDisplay** widget which allows the display to be updated without a perceptible refresh or screen scrolling. It also processes the keyboard inputs from the user, and functions as the game engine. All of these responsibilities unfortunately makes `GameDisplay` a ***'god'*** class, and I ended up splitting it over 8 modules.
+The `GameDisplay` class handles anything related to the graphics of the game i.e layouts, panels, and menus. Everything graphical in the game revolves around the **LiveDisplay** widget which allows the display to be updated without a perceptible refresh or screen scrolling. It also processes the keyboard inputs from the user, and functions as the game engine. All of these responsibilities unfortunately makes `GameDisplay` a ***'god'*** class, and I ended up splitting it over 8 modules.
 
 ![GodClass](/assets/posts/20250627/GodClass.jpg){: width="353" height="481"}
 _GameDisplay 'god' class_
@@ -268,7 +268,7 @@ Because I was still learning what was possible and how it would all fit together
 
 I know that design patterns can be very helpful and can even reduce complexity in some instances, but during the intial design and coding phase I just wanted to get a working version of the game completed without further adding to my cognitive load. 
 
-In part two of this post, I will discuss the changes made to the models in order to implement the manual ship placement feature, and also dig a little bit deeper into the inner workings of the `GameDisplay` class.   
+In part two of this post, I will discuss the changes made to the models in order to implement the manual ship placement feature, and also dig a little bit deeper into the inner workings of the `GameDisplay` class. In the meantime, the code for the project can be viewed [here](https://github.com/TheHolderCollective/Battleship), and thank you for reading this far!
 
 <br>
 
