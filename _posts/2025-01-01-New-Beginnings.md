@@ -5,6 +5,8 @@ date: 2025-01-02 11:33:00 +0800
 categories: [Blogging, Introduction]
 author: rholder
 tags: [intro]
+image:
+  path: /assets/preview_images/road-1200x630.jpg
 ---
 
 Welcome to the Holder Collective!

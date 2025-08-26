@@ -1,10 +1,14 @@
 ---
 title: Minesweeper - A Refactoring Exercise
-description: First explorations of Spectre.Console while refactoring Minesweeper
+description: First explorations of Spectre.Console while refactoring a console version of Minesweeper
 date: 2025-05-16 19:20:00 +0000
 categories: [Code, Projects]
 author: rholder
 tags: [games, console, refactoring, Spectre.Console, c#]
+image:
+  path: /assets/preview_images/Minesweeper-1200x630.jpg 
+  alt: "Classic Minesweeper in expert mode"
+  
 ---
 
 I was browsing GitHub a couple months ago when I came across a basic version of console Minesweeper. It gave me flashblacks of attempting to play it as a teenager and always hitting bombs. I never understood the game back then, but that was because I'd never read the rules. In any case, it seemed quite boring at the time when compared to games which contained beautifully rendered graphics, movable characters, and titillating sounds. 

@@ -5,6 +5,8 @@ date: 2025-06-27 21:01:00 +0000
 categories: [Code, Projects]
 author: rholder
 tags: [games, console, Spectre.Console, c#]
+image:
+  path: /assets/preview_images/BattleshipGrids-A-1200x630.jpg
 ---
 
 As my last project to refactor and improve a console version of Minesweeper was winding down, my mind wandered to thoughts of what's next, and I had the idea of trying my hand at a Battleship game. I fortuitously came across [a series of blog posts](https://tinyurl.com/3jcejv39) outlining the modeling of this game in C#. I worked through the series to see how the game could be modeled, and decided to build a version of Battleship based on the models from this series. 

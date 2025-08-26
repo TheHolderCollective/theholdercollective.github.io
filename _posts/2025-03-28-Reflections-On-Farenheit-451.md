@@ -5,6 +5,10 @@ date: 2025-03-28 16:33:00 +0000
 categories: [Literature, Dystopian]
 author: rholder
 tags: [dystopian, goodreads]
+image:
+  path: /assets/preview_images/fahrenheit451bookcover-1200x630.png
+  alt: Artwork by Elizabeth Perez. (http://eliperez.com)
+  
 ---
 
 

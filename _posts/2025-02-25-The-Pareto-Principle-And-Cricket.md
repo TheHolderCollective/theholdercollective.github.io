@@ -5,6 +5,8 @@ date: 2025-02-25 19:08:00 +0000
 categories: [Mathematics, Pareto]
 author: rholder
 tags: [pareto, pareto principle, cricket, west indies]
+image:
+  path: /assets/preview_images/ParetoPrinciple-1200x630.jpg
 ---
 
 ## Introducing the Principle

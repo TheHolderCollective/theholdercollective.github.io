@@ -5,6 +5,8 @@ date: 2025-01-08 12:00:00 +0000
 categories: [Fractals, Mandelbrot]
 author: rholder
 tags: [mandelbrot]
+image:
+  path: /assets/preview_images/mandelbrot-set-1200x630.jpg
 ---
 
 I love fractals. I first discovered them in my teens while reading James Gleick's classic _Chaos Theory_. I was fascinated by the self-similarity which could be demonstrated at any scale, and also by the seemingly simple equations which produced the plots. I was also totally taken in by the idea of a fractal dimension which could be used to explain the properties of some naturally occuring structures and features in our world.
