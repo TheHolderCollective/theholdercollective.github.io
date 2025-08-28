@@ -13,7 +13,12 @@ image:
 
 I was browsing GitHub a couple months ago when I came across a basic version of console Minesweeper. It gave me flashblacks of attempting to play it as a teenager and always hitting bombs. I never understood the game back then, but that was because I'd never read the rules. In any case, it seemed quite boring at the time when compared to games which contained beautifully rendered graphics, movable characters, and titillating sounds. 
 
-After reading the rules (which turned out to be rather simple), I downloaded and built the code for the console project. On my first run of the game I was able to win my very first game of Minesweeper. After that I found a few sites online, played a few games, and for a short period of time became hooked on Minesweeper. I thoroughly enjoyed working out where the bombs were and discovering the patterns.
+After reading the rules (which turned out to be rather simple), I downloaded and built the code for the console project. On my first run of the game I was able to win my very first game of Minesweeper.
+
+![FirstPrompt](/assets/posts/20250516/OriginalGame.jpg){: width="235" height="211"}
+_Playing the game_
+
+After that I found a few sites online, played a few games, and for a short period of time became hooked on Minesweeper. I thoroughly enjoyed working out where the bombs were and discovering the patterns.
 
 Looking at the code for the game I'd downloaded, I saw that there were roughly 460 lines all contained in the Program.cs file. I thought that it would be a fun exercise to improve the game by refactoring the code. I also decided that this would be a good time to try out the [Spectre.Console](https://spectreconsole.net/) library in order to add some graphical improvements.  The remainder of this post will be a general description of that process.
 
@@ -200,6 +205,9 @@ The `GetOptionValue` method returns the `OptionValue` property of the selected i
 
 The `MenuPrompt` property is used to specify the text prompt which will be displayed to the user along with the list of menu options.
 
+![FirstPrompt](/assets/posts/20250516/LevelSelectionMenu.jpg){: width="574" height="341"}
+_Level selection menu_
+
 The `ShowMenu` method uses the list of MenuOption objects, converted to a string array using the method `GetNamesArray`, to display a text menu using the Spectre.Console method `AnsiConsole.Prompt` which returns the option selected as string. This little gem of a method makes it easy to display, select, and retrieve player selections using as little as two lines of code. (This is assuming that the entire call to `AnsiConsole.Prompt` is written on one line, unlike my call which is split across four lines.) 
 
 ### Display
@@ -364,7 +372,7 @@ private void PlayGame()
 Upon reviewing the project code, I think that the modeling of the game entities and certain design elements can be improved somewhat, but the juice isn't worth the squeeze given the small size of the project. The game is playable, and can provide a few moments of amusement. 
 
 ![Minesweeper](/assets/posts/20250516/Minesweeper.jpg){: width="551" height="441"}
-_Playing Minesweeper_
+_Playing the refactored version of Minesweeper_
 
 One problem I encountered was the misalignment of the numbers which labelled the columns. This occurred when I attempted to make the gameboard larger than 10x10. It wasn't possible to center them without doing a complete redesign of the gameboard. This little issue is why I didn't make the gameboards larger in the refactor. Larger boards with more bombs could add to the game, and would definitely be more of a challenge for seasoned players. 
 
