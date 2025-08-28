@@ -16,7 +16,7 @@ I was browsing GitHub a couple months ago when I came across a basic version of 
 After reading the rules (which turned out to be rather simple), I downloaded and built the code for the console project. On my first run of the game I was able to win my very first game of Minesweeper.
 
 ![FirstPrompt](/assets/posts/20250516/OriginalGame.jpg){: width="235" height="211"}
-_Playing the game_
+_Playing the console game_
 
 After that I found a few sites online, played a few games, and for a short period of time became hooked on Minesweeper. I thoroughly enjoyed working out where the bombs were and discovering the patterns.
 
