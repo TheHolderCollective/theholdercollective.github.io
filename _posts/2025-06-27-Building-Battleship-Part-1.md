@@ -1,6 +1,6 @@
 ---
 title: Building Battleship - Part I
-description: Building a graphically interactive console game using the Spectre.Console library
+description: Building a graphically interactive console game using the Spectre.Console library.
 date: 2025-06-27 21:01:00 +0000
 categories: [Code, Projects]
 author: rholder

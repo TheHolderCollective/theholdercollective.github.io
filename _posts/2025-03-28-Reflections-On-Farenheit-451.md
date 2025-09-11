@@ -1,6 +1,6 @@
 ---
 title: Reflections on Farenheit 451
-description: My thoughts on Ray Bradbury's novel Farenheit 451 and its parallels with life today
+description: My thoughts on Ray Bradbury's novel Farenheit 451 and its parallels with life today.
 date: 2025-03-28 16:33:00 +0000
 categories: [Literature, Dystopian]
 author: rholder
