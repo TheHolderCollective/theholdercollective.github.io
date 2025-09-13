@@ -3,7 +3,7 @@
 The blog can be viewed here: [The Holder Collective](https://theholdercollective.github.io/)
 
 ## About
-Created using the [Chirpy Jekyll Theme](https://github.com/cotes2020/jekyll-theme-chirpy/) starter.
+Created using the [Chirpy Jekyll Theme](https://github.com/cotes2020/jekyll-theme-chirpy/).
 
 Documentation can be found [here](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
