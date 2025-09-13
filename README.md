@@ -3,9 +3,9 @@
 The blog can be viewed here: [The Holder Collective](https://theholdercollective.github.io/)
 
 ## About
-Created using the [Chirpy Jekyll Theme](https://github.com/cotes2020/jekyll-theme-chirpy/) starter.
+Created using the [Chirpy Starter](https://github.com/cotes2020/chirpy-starter).
 
-The Chirpy Jekyll theme is a minimal, responsive, and feature-rich Jekyll theme for technical writing.
+The [Chirpy Jekyll theme](https://github.com/cotes2020/jekyll-theme-chirpy/) is a minimal, responsive, and feature-rich Jekyll theme for technical writing.
 
 Documentation can be found [here](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
