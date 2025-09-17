@@ -266,9 +266,7 @@ _GameDisplay 'god' class_
 This class will definitely be one of the main targets for refactoring as time permits at some point in the future.
 
 ## Conclusion
-Because I was still learning what was possible and how it would all fit together as far as making a version of Battleship with Spectre.Console was concerned, I realised that I couldn't determine which design patterns would be a good fit for the game until I had fleshed out a working version. So I decided to keep things simple and not try to complicate the process by introducing design patterns. 
-
-I know that design patterns can be very helpful and can even reduce complexity in some instances, but during the intial design and coding phase I just wanted to get a working version of the game completed without further adding to my cognitive load. 
+Because I was still learning what was possible and how it would all fit together as far as making a version of Battleship with Spectre.Console was concerned, I realised that I couldn't determine which design patterns would be a good fit for the game until I had fleshed out a working version. So I decided to keep things simple and not try to complicate the process by introducing design patterns. These will be added during the refactor.
 
 In part two of this post, I will discuss the changes made to the models in order to implement the manual ship placement feature, and also dig a little bit deeper into the inner workings of the `GameDisplay` class. In the meantime, the code for the project can be viewed [here](https://github.com/TheHolderCollective/Battleship), and thank you for reading this far!
 

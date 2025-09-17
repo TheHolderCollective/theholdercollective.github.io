@@ -9,7 +9,7 @@ order: 2
 
 **Project Code**:  [Battleship](https://github.com/TheHolderCollective/Battleship)  
 
-**Blog Post**: [Building Battleship - Part I](https://theholdercollective.github.io/posts/Building-Battleship-Part-1/)
+**Blog Post**: [Building Battleship - Part I](/posts/Building-Battleship-Part-1/)
 
 ![Battleship](/assets/img/projects/Battleship.jpg){: width="1221" height="636"}
 _Battle screen from Battleship_
@@ -20,7 +20,7 @@ _Battle screen from Battleship_
 
 **Project Code**: [Minesweeper](https://github.com/TheHolderCollective/MineSweeper)  
 
-**Blog Post**: [Minesweeper - Refactored](https://theholdercollective.github.io/posts/Minesweeper-A-Refactoring-Exercise/)
+**Blog Post**: [Minesweeper - Refactored](/posts/Minesweeper-A-Refactoring-Exercise/)
 
 ![Minesweeper](/assets/img/projects/minesweeper.png){: width="584" height="452"}
 _Minesweeper game board after loss_

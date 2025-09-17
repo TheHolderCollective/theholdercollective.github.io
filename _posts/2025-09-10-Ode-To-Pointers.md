@@ -4,7 +4,7 @@ description: Just me waxing nostalgic about using pointers.
 date: 2025-09-10 13:45:00 +0000
 categories: [Code, Other]
 author: rholder
-tags: [c,c++]
+tags: [c,c++,pointers]
 image:
   path: /assets/preview_images/Pointers-1200x630.jpg
 ---
