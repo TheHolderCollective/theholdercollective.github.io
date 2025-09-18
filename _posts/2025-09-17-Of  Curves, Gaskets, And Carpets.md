@@ -19,7 +19,7 @@ A Sierpinski gasket (or triangle) can be produced by dividing an equilateral tri
 _Sierpinski gasket - (stock image not produced by sample code)_
 
 ### Inverted Sierpinski Gasket
-The image shown below is an inverted Sierpinski gasket constructed by leaving the middle triangle and "removing" the three smaller triangles. This image was created using the included sample code with the variable **tlevel** set to 5.
+The image shown below is an inverted Sierpinski gasket constructed by leaving the middle triangle and "removing" the three outer triangles. This image was created using the included sample code with the variable **tlevel** set to 5.
 
 ![SierpinskiGasketRendered](/assets/posts/20250917/SierpinskiGasket.jpg){: width="942" height="804"}
 _Inverted Sierpinski gasket for (level = 5)_
@@ -180,7 +180,7 @@ startx = -250
 starty = 160
 order = 8
 length = 500
-curvecolor = "yello"
+curvecolor = "yellow"
 
 sierpinski_arrowhead_curve(startx,-starty, order, length, curvecolor)
 
@@ -189,7 +189,7 @@ turtle.mainloop()
 
 ## Sierpinski Carpet
 
-The Sierpinski carpet can constructed using a method similar to the one introduced earlier for the Sierpinski gasket. A square is divided into 9 squares of equal size and the middle square removed. This process is then repeated for the remaining squares indefinitely. In practice, as with the gasket, the number of repetitions is usually specified by a preset value.
+The Sierpinski carpet can be constructed using a method similar to the one introduced earlier for the Sierpinski gasket. A square is divided into 9 squares of equal size and the middle square removed. This process is then repeated for the remaining squares indefinitely. In practice, as with the gasket, the number of repetitions is usually specified by a preset value.
 
 ![SierpinskiCarpetStock](/assets/posts/20250917/SierpinskiCarpet_640.jpg){: width="640" height="640"}
 _Sierpinski carpet - (stock image not produced by sample code)_
