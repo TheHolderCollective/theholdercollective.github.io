@@ -145,7 +145,7 @@ The Sierpinski curve very closely resembles the Sierpinski gasket, and can be pr
 
 The curve below was produced by a very straightforward translation of some C++ code into Python. Rendering the curve takes between 15 to 40 seconds, but it's fun to watch the turtle cursor trace out its path.
 
-![SierpinskiGasket](/assets/posts/20250917/SierpinskiArrowHeadCurve.jpg){: width="758" height="671"}
+![SierpinskiGasket](/assets/posts/20250917/SierpinskiArrowHeadCurve.jpg){: width="579" height="523"}
 _Sierpinski arrowhead curve for order=8_
 
 ```python
@@ -191,7 +191,7 @@ startx = -250
 starty = 160
 order = 8
 length = 500
-curvecolor = "purple"
+curvecolor = "yello"
 
 sierpinski_arrowhead_curve(startx,-starty, order, length, curvecolor)
 
