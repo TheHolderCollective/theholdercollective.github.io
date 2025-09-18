@@ -4,18 +4,7 @@ description: Plotting Sierpinski fractals using Turtle graphics in Python.
 date: 2025-09-17 14:25:00 +0000
 categories: [Fractals, Sierpinski]
 author: rholder
-tags:
-  [
-    fractals,
-    sierpinski,
-    sierpinski curve,
-    sierpinski gasket,
-    sierpinski triangle,
-    sierpinski sieve,
-    sierpinski carpet,
-    python,
-    turtle
-  ]
+tags: [fractals,sierpinski,sierpinski curve,sierpinski gasket,sierpinski triangle,sierpinski sieve,sierpinski carpet,python,turtle]
 image:
   path: /assets/preview_images/Sierpinski_3D_1200x630.jpg
 ---
