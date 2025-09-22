@@ -1,7 +1,7 @@
 ---
 title: Mandelbrot or Mandel-not?
 description: My first attempt at plotting fractals using Excel.
-date: 2025-01-08 12:00:00 +0000
+date: 2025-02-12 12:00:00 +0000
 categories: [Fractals, Mandelbrot]
 author: rholder
 tags: [mandelbrot]

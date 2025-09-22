@@ -9,7 +9,7 @@ image:
   path: /assets/preview_images/Sierpinski_3D_1200x630.jpg
 ---
 
-I'm absolutely convinced that sometimes less is more. I've always been fascinated by fractals and the different means of plotting them. I discovered that Python's Turtle library, as basic as it is, can be used to plot simple fractals.  In this post, I share three simple python programs which I wrote to plot three very well known, eponymous fractals discovered by the Polish mathematician Wacław Sierpiński. It can take 10 or more seconds to produce the images due to the slow nature of Turtle and the order/level value chosen for the fractals, but it can be instructive, if not somewhat entertaining, to watch the construction process of the fractal figures.
+I'm absolutely convinced that sometimes less is more. I discovered that Python's Turtle library, as basic as it is, can be used to plot simple fractals.  In this post, I share three simple python programs which I wrote to plot three very well known, eponymous fractals discovered by the Polish mathematician Wacław Sierpiński. It can take 10 or more seconds to produce the images due to the slow nature of Turtle and the order/level value chosen for the fractals, but it can be instructive, if not somewhat entertaining, to watch the construction process of the fractal figures.
 
 ## Sierpinski Gasket
 

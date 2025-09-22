@@ -1,7 +1,7 @@
 ---
 title: The Pareto Principle and Cricket
 description: Could applying the Pareto principle create a competitive West Indies team?
-date: 2025-02-25 19:08:00 +0000
+date: 2025-03-17 12:00:00 +0000
 categories: [Mathematics, Pareto]
 author: rholder
 tags: [pareto, pareto principle, cricket, west indies]

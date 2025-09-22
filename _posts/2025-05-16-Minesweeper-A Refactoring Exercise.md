@@ -1,7 +1,7 @@
 ---
 title: Minesweeper - A Refactoring Exercise
 description: First explorations of Spectre.Console while refactoring a console version of Minesweeper.
-date: 2025-05-16 19:20:00 +0000
+date: 2025-06-27 12:00:00 +0000
 categories: [Code, Projects]
 author: rholder
 tags: [games, console, refactoring, Spectre.Console, c#]
