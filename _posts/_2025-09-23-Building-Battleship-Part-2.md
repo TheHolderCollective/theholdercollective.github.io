@@ -15,28 +15,7 @@ In the [last post](/posts/Building-Battleship-Part-1/) about the Battleship proj
 
 In this installment, I'll be focusing on the changes made to the models in order to achieve the goal of making the game fully playable by a human player. This also includes allowing the player to manually place and position their battleships. 
 
-
-# Minor Changes
-One of the first things which occured as I started to use Spectre.Console features in the project was a naming conflict between the Spectre.Console `Panel` class, and the `Panel` class which was defined in one of the game's namespaces (*BattleshipModellingPractice.Objects.Boards*). To make things simpler and to reduce the possibility for confusion when reading the code, I opted to rename the game's `Panel` class to `GameBoardPanel`. 
-
-The abstract class `Ship` was updated to include two new properties: **ShipType** and **IsPlaced**.
-
-```c#
-public abstract class Ship
-{
-    public string Name { get; set; }
-    public int Width { get; set; }
-    public int Hits { get; set; }
-    public OccupationType OccupationType { get; set; }
-    public bool IsSunk{...}
-  
-    public ShipType ShipType { get; set;} // new
-    public bool IsPlaced { get; set; } // new
-}
-```
-
-# New Additions
-# Major Changes
+# Changes
 
 # Conclusion
 

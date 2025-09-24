@@ -123,7 +123,7 @@ tlevel = 3
 
 draw_sierpinski_triangle(startx, starty, tx, ty, tsize, tcolor, tlevel)
 
-turtle.mainloop()
+screen.mainloop()
 ```
 
 ## Sierpinski Arrowhead Curve
@@ -184,7 +184,7 @@ curvecolor = "yellow"
 
 sierpinski_arrowhead_curve(startx,-starty, order, length, curvecolor)
 
-turtle.mainloop()
+screen.mainloop()
 ```
 
 ## Sierpinski Carpet
@@ -299,9 +299,13 @@ level = 3
 
 draw_sierpinski_carpet(sq_x, sq_y, sq_size, sq_color, True, level)
 
-turtle.mainloop()
+screen.mainloop()
 ```
 
+## Updates and Improvements
+Since I first published this post, I discovered that rendering images using Turtle could be significantly sped up by turning off screen updating. This can be done using the function call **turtle.tracer(0)**, and then calling **turtle.update()** after to see the plotted fractal. I added this to the code and saw a significant improvement in the time taken to plot the fractals for values of n = level. Turning off the cursor also helps with reducing plot time, but it doesn't have the same impact as completely turning off screen updating.
+
+I created a Github repo called [TurtleFractals](https://github.com/TheHolderCollective/TurtleFractals) where the updated code for these sample programs can be found.
 
 <br>
 
