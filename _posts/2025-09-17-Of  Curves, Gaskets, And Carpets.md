@@ -303,7 +303,7 @@ screen.mainloop()
 ```
 
 ## Updates and Improvements
-Since I first published this post, I discovered that rendering images using Turtle could be significantly sped up by turning off screen updating. This can be done using the function call **turtle.tracer(0)**, and then calling **turtle.update()** after to see the plotted fractal. I added this to the code and saw a significant improvement in the time taken to plot the fractals for values of n = level. Turning off the cursor also helps with reducing plot time, but it doesn't have the same impact as completely turning off screen updating.
+Since I first published this post, I discovered that rendering images using Turtle could be significantly sped up by turning off screen updating. This can be done using the function call **turtle.tracer(0)**, and then calling **turtle.update()** after to see the plotted fractal. I added this to the code and saw a significant improvement in the time taken to plot the fractals for higher values of n(= level). Turning off the cursor also helps with reducing plot time, but it doesn't have the same impact as completely turning off screen updating.
 
 I created a Github repo called [TurtleFractals](https://github.com/TheHolderCollective/TurtleFractals) where the updated code for these sample programs can be found.
 
