@@ -18,14 +18,13 @@ A Sierpinski gasket (or triangle) can be produced by dividing an equilateral tri
 ![SierpinskiGasketStock](/assets/posts/20250917/sierpinski_triangle_640.png){: width="640" height="490"}
 _Sierpinski gasket - (stock image not produced by sample code)_
 
-### Inverted Sierpinski Gasket
-The image shown below is an inverted Sierpinski gasket constructed by leaving the middle triangle and "removing" the three outer triangles. This image was created using the included sample code with the variable **tlevel** set to 5.
+The image shown below is a Sierpinski gasket with inverted coloration of the triangles. This image was created using the included sample code with the variable **tlevel** set to 5.
 
 ![SierpinskiGasketRendered](/assets/posts/20250917/SierpinskiGasket.jpg){: width="942" height="804"}
 _Inverted Sierpinski gasket for (level = 5)_
 
 ```python
-# draws inverted sierpinski gasket
+# draws a sierpinski gasket
 
 import turtle
 import math
@@ -194,14 +193,13 @@ The Sierpinski carpet can be constructed using a method similar to the one intro
 ![SierpinskiCarpetStock](/assets/posts/20250917/SierpinskiCarpet_640.jpg){: width="640" height="640"}
 _Sierpinski carpet - (stock image not produced by sample code)_
 
-### Inverted Sierpinski Carpet
-An inverted sierpinski carpet can be produced by keeping the middle square and "removing" the remaining squares. When using the included sample code, setting the level value to 5 results in a very nice inverted carpet as shown below. This image took more than 10 minutes to render using Turtle. (*Yes, Turtle can be frightfully slow.*)
+ When using the included sample code, setting the level value to 5 results in a very nice carpet with inverted coloration as shown below. This image took more than 10 minutes to render using Turtle. (*Yes, Turtle can be frightfully slow.*)
 
 ![SierpinskiCarpetRendered](/assets/posts/20250917/SierpinskiCarpet.jpg){: width="739" height="713"}
 _Inverted Sierpinski carpet for level=5_
 
 ```python
-# draws an inverted Sierpinski carpet
+# draws a Sierpinski carpet
 
 import turtle
 
