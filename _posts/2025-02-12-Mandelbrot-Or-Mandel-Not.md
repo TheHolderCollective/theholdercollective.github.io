@@ -4,7 +4,7 @@ description: My first attempt at plotting fractals using Excel.
 date: 2025-02-12 12:00:00 +0000
 categories: [Fractals, Mandelbrot]
 author: rholder
-tags: [mandelbrot]
+tags: [mandelbrot, fractals]
 image:
   path: /assets/preview_images/mandelbrot-set-1200x630.jpg
 ---

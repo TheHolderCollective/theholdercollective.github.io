@@ -9,7 +9,7 @@ order: 2
 
 **Project Code**:  [Battleship](https://github.com/TheHolderCollective/Battleship)  
 
-**Blog Posts**: Building Battleship - [Part I](/posts/Building-Battleship-Part-1/) 
+**Blog Posts**: [Building Battleship - Part I](/posts/Building-Battleship-Part-1/), [Part II](/posts/Building-Battleship-Part-2/)
 ![Battleship](/assets/img/projects/Battleship.jpg){: width="1221" height="636"}
 _Battle screen from Battleship_
 
