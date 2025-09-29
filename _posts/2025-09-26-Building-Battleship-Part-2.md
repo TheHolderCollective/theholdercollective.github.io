@@ -372,6 +372,7 @@ The one drawback of this refactoring was that I had to explicitly declare one of
 Time away from a project gives a fresh perspective, and it allowed me to see the mess I overlooked when I was learning how to use Spectre.Console in order to build the game. I was reasonably satisfied with the results of refactoring the Player class, and I have some ideas going forward as to how the Gordian knot which is the `GameDisplay` class can untangled into something cleaner and more manageable. I will be tackling this class in all of its convoluted glory in the next post of this unintentional series about building Battleship.
 
 
+{% include comment.html %}
 
 <br>
 
