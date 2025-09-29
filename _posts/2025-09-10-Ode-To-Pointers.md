@@ -159,6 +159,10 @@ The idea of passing by reference or by value is certainly nothing new or groundb
 
 <br>
 
+{% include comment.html %}
+<br>
+
+
 |![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png)| 
 
 

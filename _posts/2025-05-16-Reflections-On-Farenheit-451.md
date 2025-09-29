@@ -68,5 +68,9 @@ Our world is in the nascent stages of dystopia with many unable to see it. As lo
 
 <br>
 
+{% include comment.html %}
+<br>
+
+
 |![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png) | 
 

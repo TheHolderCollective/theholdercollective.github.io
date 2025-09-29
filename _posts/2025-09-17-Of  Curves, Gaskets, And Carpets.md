@@ -307,5 +307,9 @@ I created a Github repo called [TurtleFractals](https://github.com/TheHolderColl
 
 <br>
 
+{% include comment.html %}
+<br>
+
+
 
 |![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png)| 

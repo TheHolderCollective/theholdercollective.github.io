@@ -52,4 +52,7 @@ I really do think if just pitch quality and fielding are improved that the team 
 
 <br>
 
+{% include comment.html %}
+<br>
+
 |![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png) | 
