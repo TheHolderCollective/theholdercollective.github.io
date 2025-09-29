@@ -4,7 +4,7 @@ description: Building a graphically interactive console game using the Spectre.C
 date: 2025-09-26 20:00:00 +0000
 categories: [Code, Projects]
 author: rholder
-tags: [games, console, Spectre.Console, c#, csharp, battleship]
+tags: [games, console, Spectre.Console, c#, csharp, battleship, projectjournal]
 image:
   path: /assets/preview_images/mckenzie-warship-1200x630.jpg
   alt: Image by Francis Cooper-McKenzie
@@ -376,6 +376,5 @@ Time away from a project gives a fresh perspective, and it allowed me to see the
 
 {% include comment.html %}
 <br>
-
 
 |![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png)| 

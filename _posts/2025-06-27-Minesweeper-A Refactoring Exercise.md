@@ -4,7 +4,7 @@ description: First explorations of Spectre.Console while refactoring a console v
 date: 2025-06-27 12:00:00 +0000
 categories: [Code, Projects]
 author: rholder
-tags: [games, console, refactoring, Spectre.Console, c#, csharp, minesweeper]
+tags: [games, console, refactoring, Spectre.Console, c#, csharp, minesweeper, projectjournal]
 image:
   path: /assets/preview_images/Minesweeper-1200x630.jpg 
   alt: "Classic Minesweeper in expert mode"
@@ -382,7 +382,6 @@ The most enjoyable part of this project was exploring and learning how to use th
 
 {% include comment.html %}
 <br>
-
 
 |![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png) | 
 

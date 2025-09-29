@@ -4,7 +4,7 @@ description: Building a graphically interactive console game using the Spectre.C
 date: 2025-08-17 12:00:00 +0000
 categories: [Code, Projects]
 author: rholder
-tags: [games, console, Spectre.Console, c#, csharp, battleship]
+tags: [games, console, Spectre.Console, c#, csharp, battleship, projectjournal]
 image:
   path: /assets/preview_images/BattleshipGrids-A-1200x630.jpg
 ---
@@ -274,7 +274,6 @@ In part two of this post, I will discuss the changes made to the models in order
 
 {% include comment.html %}
 <br>
-
 
 |![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png)| 
 
