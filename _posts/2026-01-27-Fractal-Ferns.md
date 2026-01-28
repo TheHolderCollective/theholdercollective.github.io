@@ -50,12 +50,12 @@ In order to fully understand the plotting function it is necessary to have a bas
 
 ![AffineTransformationFormula](/assets/posts/20260127/AffineTransformFormula.jpg){: width="474" height="183"}
 
-By substituting values for a, b, c, d, e, and f into formula, it is is possible to obtain 4 transformations which can be used iteratively in conjunction with a probability factor *p* to produce the fern. A sample table of values which can be used to generate a fern is shown below:
+By substituting values for a, b, c, d, e, and f into the formula, it is is possible to obtain 4 transformations which can be used iteratively in conjunction with a probability factor *p* to produce the fern. A sample table of values which can be used to generate a fern is shown below:
 
 ![AffineTransformationFormula](/assets/posts/20260127/BlackSpleenwortFernValueTable.jpg){: width="1054" height="326"}
 _Matrix of values for generating the Black Spleenwort fern (Source: [Barnsley Fern](https://en.wikipedia.org/wiki/Barnsley_fern))_
 
-Each row of the table shows the values used in the formula for each tranformation along with the probability factor used to determine which transform equation to use during point generation. With these details we have the basics needed to understand the **draw_fractal_fern** function.
+Each row of the table shows the values used in the formula for each transformation along with the probability factor used to determine which transform equation to use during point generation. With these details we have the basics needed to understand the **draw_fractal_fern** function.
 
 The first 7 parameters, *a* through *p*, are arrays containing the values for each affine transformation and its paired probabilty factor. The *max_iterations* parameter is the the maximum number of iterations, as the name suggests, and it is used to control the level of detail. The plots below show the Barnsley fern plotted using 10 000 and 100 000 max iterations respectively. The difference in the level of detail is quite stark.
 
@@ -114,7 +114,7 @@ screen.update()
 screen.mainloop()
 ```
 
-The entirety of the code can be found [here](https://github.com/TheHolderCollective/TurtleFractals/tree/main/Fractal%20Ferns) in the TurtleFractals Github repo. It includes parameter values for plotting the modified Barnsley fern, the Culcita fern, and the Cyclosorus fern.
+The entirety of the code can be found [here](https://github.com/TheHolderCollective/TurtleFractals/tree/main/Fractal%20Ferns) in the TurtleFractals Github repo. It includes parameter values for plotting the modified Barnsley, Culcita, and Cyclosorus ferns.
 
 ## Some Sample Fern Plots
 The images which follow were generated using the code with max iterations set to 100 000. I found that I liked the artisanal feel of the images produced at this limit. I stuck to the more natural colours of green and orange yellow for the ferns. (Though if I'm honest I'm not sure if ferns turn this colour during the fall.)
@@ -126,7 +126,7 @@ This modified Barnsley fern plot was my favourite of the lot. It made me think o
 _Modified Barnsley Fern - 100K iterations_
 
 **Culcita Fern** <br>
-This Cuclcita fern is featured in the somewhat stretched preview image for this post. While it looks good in green, I prefer it in the orange yellow of the preview image.
+This Culcita fern is featured in the somewhat stretched preview image for this post. While it looks good in green, I prefer it in the orange yellow of the preview image.
 
 ![CulcitaFern100K](/assets/posts/20260127/CulcitaFern_100K.jpg){: width="516" height="529"}
 _Culcita Fern - 100K iterations_
@@ -138,7 +138,7 @@ I don't believe that this is the best quality Cyclosorus fern plot. I think incr
 _Cyclosorus Fern - 100K iterations_
 
 ## Closing Thoughts
-While not perfect, I was relatively happy with the plots and the quality of the images that were produced using Turtle. I was able to learn from my previous mistake of not turning off screen updating and not hiding the turtle, in order to be able to render the images relatively quickly for a high number of maximum iterations. Maybe one day, when I have time I can actually tweak the code and make this little [toy program](https://github.com/TheHolderCollective/TurtleFractals/tree/main/Fractal%20Ferns) a bit more user-friendly. But I think this will be all for now. The ferns aren't really all that interesting to me anymore.
+While not perfect, I was relatively happy with the plots and the quality of the images that were produced using Turtle. I was able to learn from my previous mistake of not turning off screen updating and not hiding the turtle, in order to be able to render the images relatively quickly for a high number of maximum iterations. Maybe one day when I have time I can actually tweak the code, and make this little [toy program](https://github.com/TheHolderCollective/TurtleFractals/tree/main/Fractal%20Ferns) a bit more user-friendly. But I think this will be all for now. The ferns aren't really all that interesting to me anymore.
 
 
 <br>
