@@ -1,6 +1,6 @@
 ---
 title: Life and its Unseen Consequences
-description: Our actions influence and echo through generations
+description: Our actions influence and echo through generations.
 date: 2025-12-02 05:00:00 +0000
 categories: [Blogging, Thoughts]
 author: rholder
