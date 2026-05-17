@@ -6,7 +6,7 @@ categories: [Blogging, Thoughts]
 author: rholder
 tags: [deadtree books,paper books, musings, thoughts]
 image:
-  path: /assets/preview_images/Books-Verda.jpg
+  path: /assets/preview_images/Books-Verda.jpg 
 ---
 
 I love paper books. There I've said it. In the age of the Kindle, tablets, and other devices which can be used to read e-books, I can proudly say that I am enamoured with dead-tree books. E-books have their place, of course, and can't be beat when it comes to searchability, portability, and the absolutely miniscule amount of space required to store them. But they are beaten hands down by paper books when it comes to the sensory experience. 
