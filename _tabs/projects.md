@@ -9,7 +9,7 @@ order: 1
 
 **Description**: A wrapper library which simplifies the use of [MTsocketAPI](https://www.mtsocketapi.com).
 
-**Project Status**: Still under development
+**Project Status**: Under review and testing.
 
 **Project Code**: [MetatraderSharp](https://github.com/TheHolderCollective/MetatraderSharp)
 
@@ -19,7 +19,7 @@ order: 1
 
 **Description**: A set of recipes (sample programs) which show how to use the the MetatraderSharp library.
 
-**Project Status**: Still under development
+**Project Status**: Under review and testing.
 
 **Project Code**: [MetatraderSharpCookbook](https://github.com/TheHolderCollective/MetatraderSharpCookbook)
 
