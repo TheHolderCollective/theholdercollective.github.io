@@ -4,13 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-This site houses my blog posts and documents a few of my hobby projects. Professional projects completed in the last couple of years are not posted here due to non-disclosure agreements I was required to sign at the start of my employment.
+Hello and welcome to my blog! 
 
-My educational background includes a mixture of computer science and mathematics at the undergrad level, and actuarial science at the postgrad level. It has been suprisingly good to me as it has allowed me to step through doors which would otherwise have been closed. I've done a bunch of similar yet unrelated things professionally which have all been tied together by the common threads of knowing how to analyse data, problem solve, and code.
+I am a software developer with an actuarial background who was once described in a job interview as being interesting because I was a "hybrid spotted fish". I guess because of my somewhat mixed educational background where I did computer science and mathematics for undergrad, and actuarial science for  postgrad, I couldn't be slotted into a neat box for a particular career path, even though at the time my expressed interest was in becoming an actuary.
 
-Some of my interests include chaos theory, fractals, cricket, rebounding, and cats.
+This blog functions as a space for me to express my thoughts on certain issues, and as way of maintaining an online presence, however small, as I've opted out of active social media participation. I'll also share bits and pieces from my hobby/non-hobby code projects from time to time.
 
-_Please note that due to privacy and productivity concerns, I don't participate in an active way on a lot of the more popular social media sites such as Facebook, X, Instagram, or LinkedIn. Therefore, this blog along with my github will mostly be it as far as a personal internet presence goes._ 
+If something I've said strikes a chord with you, please feel free to reach out. I'm always open to dialogue with like-minded individuals, and even with those who may not be like-minded. Being open to different perspectives is how we can grow and expand our intellectual horizons. With all that being said, I hope you enjoy my posts and happy reading!
 
 <br>
 
