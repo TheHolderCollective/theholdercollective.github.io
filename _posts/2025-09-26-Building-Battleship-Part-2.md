@@ -371,6 +371,8 @@ The one drawback of this refactoring was that I had to explicitly declare one of
 ## Conclusion
 Time away from a project gives a fresh perspective, and it allowed me to see the mess I overlooked when I was learning how to use Spectre.Console in order to build the game. I was reasonably satisfied with the results of refactoring the Player class, and I have some ideas going forward as to how the Gordian knot which is the `GameDisplay` class can untangled into something cleaner and more manageable. I will be tackling this class in all of its convoluted glory in the next post of this unintentional series about building Battleship.
 
+## Update
+It's now September 2026, and almost a year has passed since this post was first written. A lot has happened in the past year which has led to a change in priorities and perspective. I don't like to leave things undone, or at least without closure, so this update is just to say that I won't be continuing this series. I've long moved on from this hobby project, and the juice from the effort of documenting the refactoring process isn't worth the squeeze for me.
 
 <br>
 
