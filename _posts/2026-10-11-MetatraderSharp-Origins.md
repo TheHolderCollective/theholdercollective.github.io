@@ -6,7 +6,7 @@ categories: [Code, Projects]
 author: rholder
 tags: [MetatraderSharp, MTsocketApi, mt4, mt5, MetaTrader 4, MetaTrader 5, C#, project journal]
 image:
-  path: /assets/preview_images/Metatrader-Oanda-Demo-1200x630.jpg
+  path: /assets/preview_images/Metatrader-Oanda-Demo-1-1200x630.jpg
   alt: Demo account - Oanda MT4 terminal 
 ---
 
@@ -25,7 +25,7 @@ This discovery was really exciting for me as I could finally see how it would be
 
 While discovering MTsocketAPI and its usefulness was a great thing for my data analysis tool project, I quickly realised that I would need to have a more compact way of making requests to the MTsocketAPI if I was going to avoid unnecessary code duplication in the tool I was building. So I decided to write a wrapper library for both the MT4 and MT5 versions of the MTsocketAPI,  which would use a version based client to the MTsocketAPI with all the necessary functionality for making different requests to the API built in. 
 
-The two versions of the MTsocketAPI correspond to the two versions of the MetaTrader software (MT4 and MT5). Some functionality is common to both the MT4/MT5 versions of the MTsocketAPI, whereas some variation may exist on the same functionality between the different versions of the MTsocketAPI. This is due to the differences in the Metatrader 4 and 5 applications and how they work. Some functionality, however, such as tracking order events and tracking market depth are only available for the MT5 version of the API.
+The two versions of the MTsocketAPI correspond to the two versions of the MetaTrader software (MT4 and MT5). Some functionality is common to both the MT4/MT5 versions of the MTsocketAPI, whereas some variation may exist on the same functionality between the different versions of the MTsocketAPI. This is due to the differences in the Metatrader 4 and 5 applications and how they work. Some functionality, however, such as getting tick history, getting calendar events, tracking order events and tracking market depth are only available for the MT5 version of the API.
 
 Developing the wrapper library for the MTsocketAPI removed to the need to worry about creating the correct request URIs, HttpRequestMessage objects, and making the correct SendAsync method calls each time some data needed to be sent or retrieved. It also made it easier to understand what the calls to the MTsocketAPI were trying to accomplish, and it made it easier to specify and change parameters for the functionality which needed to be invoked.
 
@@ -66,7 +66,7 @@ Provided that the terminal is up and running with the MTsocketAPI successfully l
 }
 ```
 
-The code above is all fine and dandy, but I discovered that for serious work where lots of requests need to be made with more complex paramater combinations, the code can quickly become harder to keep clean even with helper methods written to carry some of the load. Below is the same request written using the MT4 client from the [MetatraderSharp](https://github.com/TheHolderCollective/MetatraderSharp) library:
+The code above is all fine and dandy, but I discovered that for serious work where lots of requests need to be made with more complex parameter combinations, the code can quickly become harder to keep clean even with helper methods written to carry some of the load. Below is the same request written using the MT4 client from the [MetatraderSharp](https://github.com/TheHolderCollective/MetatraderSharp) library:
 
 ```c#
 using MetatraderSharp.MetatraderClient;
