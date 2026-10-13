@@ -112,9 +112,14 @@ I discovered a few bugs in the MTsocketAPI along the way which were fixed by the
 
 I'm currently wrapping up testing the [library](https://github.com/TheHolderCollective/MetatraderSharp), and I hope to have the first version available for download from [Nuget](https://www.nuget.org/) in a few days. 
 
+## Update
+
+The initial release of MetatraderSharp is now [available](https://github.com/TheHolderCollective/MetatraderSharp/releases/tag/1.0.0).
+
 <br>
 
 {% include comment.html %}
 <br>
 
 |![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png)| 
+
