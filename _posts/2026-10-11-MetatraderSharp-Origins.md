@@ -85,7 +85,7 @@ Console.WriteLine(openOrderResponse);
 
 ```
 
-The details of the how the HttpClient is called and how the request URI is constructed are hidden. The purpose of the code (placing a buy order) is also much clearer. This is an example of how the library makes it easier to write code which focuses on various trading functions and strategies without having to be bogged down with creating the correct URI strings or HttpRequestMessage objects.
+The details of how the HttpClient is called and how the request URI is constructed are hidden. The purpose of the code (placing a buy order) is also much clearer. This is an example of how the library makes it easier to write code which focuses on various trading functions and strategies without having to be bogged down with creating the correct URI strings or HttpRequestMessage objects.
 
 In real-world applications, exception handling and error checks should be done, and the library helps with this by providing methods which allow the status of the last query to the MTsocketAPI along with any accompanying error codes and messages to be checked.
 
@@ -114,7 +114,7 @@ I'm currently wrapping up testing the [library](https://github.com/TheHolderColl
 
 ## Update
 
-The initial release of MetatraderSharp is now [available](https://github.com/TheHolderCollective/MetatraderSharp/releases/tag/1.0.0).
+The first release of MetatraderSharp is now available: [MetatraderSharp-1.0.0](https://github.com/TheHolderCollective/MetatraderSharp/releases/tag/1.0.0)
 
 <br>
 
