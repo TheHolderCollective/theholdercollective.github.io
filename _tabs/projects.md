@@ -26,6 +26,18 @@ order: 1
 
 ---
 
+### MetaTrader Launcher
+
+**Description**: A demo WinForms application which shows how to use MetatraderSharp with multiple terminals.
+
+**Project Status**: Under development
+
+**Project Code**: [MetaTrader Launcher](https://github.com/TheHolderCollective/MetaTraderLauncher)
+
+
+---
+
+
 <br>
 
 |![HumanContent](/assets/posts/badges/HumanContent_08.png) ![MadeByAHuman](/assets/posts/badges/MadeByAHuman_07.png) ![NeverByAI](/assets/posts/badges/NeverByAi_01.png)| 
