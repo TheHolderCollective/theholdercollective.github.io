@@ -19,10 +19,9 @@ order: 1
 
 **Description**: A set of recipes (sample programs) which show how to use the the MetatraderSharp library.
 
-**Release Version**: [MetatraderSharpCookbook-1.0.0](https://github.com/TheHolderCollective/MetatraderSharpCookbook/releases/tag/1.0.0)
+**Release Version**: [MetatraderSharpCookbook-1.1.0](https://github.com/TheHolderCollective/MetatraderSharpCookbook/releases/tag/1.1.0)
 
 **Project Code**: [MetatraderSharpCookbook](https://github.com/TheHolderCollective/MetatraderSharpCookbook)
-
 
 ---
 
