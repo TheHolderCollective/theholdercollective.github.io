@@ -27,7 +27,7 @@ While discovering MTsocketAPI and its usefulness was a great thing for my data a
 
 The two versions of the MTsocketAPI correspond to the two versions of the MetaTrader software (MT4 and MT5). Some functionality is common to both the MT4/MT5 versions of the MTsocketAPI, whereas some variation may exist on the same functionality between the different versions of the MTsocketAPI. This is due to the differences in the Metatrader 4 and 5 applications and how they work. Some functionality, however, such as getting tick history, getting calendar events, tracking order events and tracking market depth are only available for the MT5 version of the API.
 
-Developing the wrapper library for the MTsocketAPI removed to the need to worry about creating the correct request URIs, HttpRequestMessage objects, and making the correct SendAsync method calls each time some data needed to be sent or retrieved. It also made it easier to understand what the calls to the MTsocketAPI were trying to accomplish, and it made it easier to specify and change parameters for the functionality which needed to be invoked.
+Developing the wrapper library for the MTsocketAPI removed the need to worry about creating the correct request URIs, HttpRequestMessage objects, and making the correct SendAsync method calls each time some data needed to be sent or retrieved. It also made it easier to understand what the calls to the MTsocketAPI were trying to accomplish, and it made it easier to specify and change parameters for the functionality which needed to be invoked.
 
 ## How the MetatraderSharp Library Helps
 

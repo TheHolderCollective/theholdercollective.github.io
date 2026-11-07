@@ -25,13 +25,13 @@ order: 1
 
 ---
 
-### MetaTrader Launcher
+### MetatraderSharp LivePrices Demo
 
-**Description**: A demo WinForms application which shows how to use MetatraderSharp with multiple terminals.
+**Description**: A demo WinForms app which shows how to stream live prices using the MetatraderSharp API.
 
-**Project Status**: Under development
+**Release Version**: Currently unavailable
 
-**Project Code**: [MetaTrader Launcher](https://github.com/TheHolderCollective/MetaTraderLauncher)
+**Project Code**: [MetatraderSharp-LivePrices-Demo](https://github.com/TheHolderCollective/MetatraderSharp-LivePrices-Demo)
 
 
 ---
