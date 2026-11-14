@@ -29,7 +29,7 @@ order: 1
 
 **Description**: A demo WinForms app which shows how to stream live prices using the MetatraderSharp API.
 
-**Release Version**: Currently unavailable
+**Release Version**: N/A
 
 **Project Code**: [MetatraderSharp-LivePrices-Demo](https://github.com/TheHolderCollective/MetatraderSharp-LivePrices-Demo)
 
