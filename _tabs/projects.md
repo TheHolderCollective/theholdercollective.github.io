@@ -9,7 +9,7 @@ order: 1
 
 **Description**: A wrapper library which simplifies the use of [MTsocketAPI](https://www.mtsocketapi.com).
 
-**Release Version**: [MetatraderSharp-1.0.0](https://github.com/TheHolderCollective/MetatraderSharp/releases/tag/1.0.0) 
+**Release Version**: [MetatraderSharp-1.0.1](https://github.com/TheHolderCollective/MetatraderSharp/releases/tag/1.0.1) 
 
 **Project Code**: [MetatraderSharp](https://github.com/TheHolderCollective/MetatraderSharp)
 
