@@ -1,6 +1,6 @@
 ---
 title: Reflections on the Shuttering of Vimeo On Demand 
-description: Some thoughts on loss of Vimeo On Demand (VOD)
+description: Some thoughts on the loss of Vimeo On Demand (VOD)
 date: 2026-11-24 22:00:00 +0800
 categories: [Blogging, Thoughts]
 author: rholder
@@ -23,7 +23,7 @@ _Some now inaccessible films which I watched_
 
 I appreciated the relaxed, unfrenzied feel which came along with streaming videos on Vimeo. There was no jostling for recognition by an algorithm by film makers/creators. There was just the content which was left to speak for itself. For me the only downside was that a few films I wanted to watch weren't available in my geographical region, so I could neither rent nor buy them. I'll have to see if I'll be able to access the same creators or content with the new OTT service that Vimeo has phased in. So far I have no idea how to find the creators who used the VOD service on the OTT service. It seems like such a needless change, but I learnt that Vimeo had been acquired by a company last year whose MO is to take good companies and make them worse in the name of profit. So I guess the death of VOD is a consequence of the new owner's guiding philosophy. 
 
-There seem to be alternatives to VOD already brewing, so we'll see what the next few month will bring. VOD was good while it lasted. I have fond memories of watching a short film or two sometimes on Saturday evenings. However, all good things eventually end, so rest in peace VOD.
+There seem to be alternatives to VOD already brewing, so we'll see what the next few months will bring. VOD was good while it lasted. I have fond memories of watching a short film or two sometimes on Saturday evenings. However, all good things eventually end, so rest in peace VOD.
 
 
 

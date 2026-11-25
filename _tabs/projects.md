@@ -7,9 +7,11 @@ order: 1
 ---
 ### MetatraderSharp
 
-**Description**: A wrapper library which simplifies the use of [MTsocketAPI](https://www.mtsocketapi.com).
+**Description**: A C# wrapper library which simplifies the use of MTsocketAPI for MT4/MT5 terminals.
 
 **Release Version**: [MetatraderSharp-1.0.1](https://github.com/TheHolderCollective/MetatraderSharp/releases/tag/1.0.1) 
+
+**Nuget Package**: [MetatraderSharp-1.0.1](https://www.nuget.org/packages/MetatraderSharp)
 
 **Project Code**: [MetatraderSharp](https://github.com/TheHolderCollective/MetatraderSharp)
 
@@ -17,7 +19,7 @@ order: 1
 
 ### MetatraderSharp Cookbook
 
-**Description**: A set of recipes (sample programs) which show how to use the the MetatraderSharp library.
+**Description**: A set of C# recipes (sample programs) which show how to use the the MetatraderSharp library.
 
 **Release Version**: [MetatraderSharpCookbook-1.1.0](https://github.com/TheHolderCollective/MetatraderSharpCookbook/releases/tag/1.1.0)
 
